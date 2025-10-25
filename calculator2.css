@@ -220,7 +220,7 @@ button{
         height: 80%;
         align-items: center;
         justify-content: center;
-        margin: 2px auto;
+        margin: 10px auto;
         bottom: 0;
         position: absolute;
         transform: translateX(-400px);
@@ -646,3 +646,4 @@ input{
 
 
     
+
