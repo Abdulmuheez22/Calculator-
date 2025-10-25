@@ -278,7 +278,7 @@ input{
     align-items: center;
     justify-content: center;
     height: 82px;
-    margin: 10PX auto;
+    margin: 10px auto;
     background: black;
     color: white;
     text-align: center;
@@ -289,6 +289,7 @@ input{
     animation-range: 0% 100%;
     opacity: 0;
     animation: off 0.5s linear forwards;
+
 } 
 @keyframes off {
     to{
@@ -646,6 +647,7 @@ input{
 
 
     
+
 
 
 
